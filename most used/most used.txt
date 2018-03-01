@@ -26,4 +26,4 @@
 74373
 744511
 Display 7 segmentos
-LM555
+LM555 
